@@ -19,17 +19,19 @@
 
             <include
                 android:id="@+id/main_toolbar"
-                layout="@layout/toolbar_layout"></include>
+                layout="@layout/toolbar_layout">
 
-            <com.google.android.material.tabs.TabLayout
-                android:id="@+id/main_tabs"
-                android:layout_width="match_parent"
-                android:layout_height="40dp"
-                android:background="@color/blue"
-                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-                app:tabTextAppearance="@style/CustomTab">
+            </include>
 
-            </com.google.android.material.tabs.TabLayout>
+<!--            <com.google.android.material.tabs.TabLayout-->
+<!--                android:id="@+id/main_tabs"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="40dp"-->
+<!--                android:background="@color/blue"-->
+<!--                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"-->
+<!--                app:tabTextAppearance="@style/CustomTab">-->
+
+<!--            </com.google.android.material.tabs.TabLayout>-->
 
         </com.google.android.material.appbar.AppBarLayout>
 
@@ -41,7 +43,9 @@
                android:id="@+id/fragment2"
                android:name="com.example.newsapplication.FakeNewsFragment"
                android:layout_width="match_parent"
-               android:layout_height="625dp" />
+               android:layout_height="625dp"
+
+               />
 
        </ScrollView>
 
