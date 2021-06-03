@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531432440343",
+    "firebase_url": "https://newslanka-d8664-default-rtdb.firebaseio.com",
+    "project_id": "newslanka-d8664",
+    "storage_bucket": "newslanka-d8664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531432440343:android:6224c19e3061be8eff1252",
+        "android_client_info": {
+          "package_name": "com.example.newsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531432440343-2omjg4s6i3vr15phh35fm43rpe3b9mhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsapplication",
+            "certificate_hash": "d225b7c76919166824778c4299c3457f1f7be037"
+          }
+        },
+        {
+          "client_id": "531432440343-vch030rm71g6nqjhabq8uqk45mjdvuh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu5KPh5qgRYmH5w_RkGB_UqNbSeBtQQZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531432440343-vch030rm71g6nqjhabq8uqk45mjdvuh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
